@@ -11,16 +11,17 @@ Passionate about building scalable, secure, and intelligent software solutions.
 ## 💼 Skills & Technologies
 
 ### 🖥 Programming
-🟦 C++  🐍 Python  ⚡ JavaScript  🔷 TypeScript  💎 HTML/CSS
+🟦 **C++** &nbsp; 🐍 **Python** &nbsp; ⚡ **JavaScript** &nbsp; 🔷 **TypeScript** &nbsp; 💎 **HTML/CSS**
 
-### 🤖 AI & ML
-🧠 NLP  📊 Ensemble Models  🌐 Federated Learning  🔮 Predictive Analytics
+### 🤖 AI & Machine Learning
+🧠 **NLP** &nbsp; 📊 **Ensemble Models** &nbsp; 🌐 **Federated Learning** &nbsp; 🔮 **Predictive Analytics**
 
-### 🌐 Web & DB
-🟢 Node.js  ⚛️ React.js  🟠 Express.js  🗄 MySQL  🍃 MongoDB  🔹 Firebase  🟣 Oracle  🧩 REST APIs
+### 🌐 Web Development & Databases
+🟢 **Node.js** &nbsp; ⚛️ **React.js** &nbsp; 🟠 **Express.js** &nbsp; 🗄 **MySQL** &nbsp; 🍃 **MongoDB** &nbsp; 🔹 **Firebase** &nbsp; 🟣 **Oracle** &nbsp; 🧩 **REST APIs**
 
 ### ☁️ Cloud & Tools
-☁️ AWS  🐳 Docker  🔧 Git  🛠 VS Code  
+☁️ **AWS** &nbsp; 🐳 **Docker** &nbsp; 🔧 **Git** &nbsp; 🛠 **VS Code**
+
 
 
 
