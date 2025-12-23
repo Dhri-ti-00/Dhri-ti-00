@@ -1,14 +1,33 @@
-# Hi, I'm Dhritisha Ghosh 👋
+I'm Dhritisha Ghosh
+BSc in Computer Science & Engineering from **Khulna University of Engineering & Technology (KUET), Bangladesh**  
+Passionate about building scalable, secure, and intelligent software solutions.
 
-BSc CSE graduate 
+---
 
-## 📫 Contact
-Email: ghosh.dhritisha108@gmail.com  
+## 📫 Contact Me
+✉️ Email: ghosh.dhritisha108@gmail.com  
+---
 
+## 💼 Skills & Technologies
 
-## 💻 Skills
-**Programming:** C++, Python, JavaScript, TypeScript  
-**AI/ML:** NLP, LLM-based apps, Ensemble Models, Federated Learning  
-**Web & Databases:** Node.js, React.js, Express.js, REST APIs, MySQL, MongoDB, Firebase, Oracle  
-**Cloud & Tools:** AWS, Docker, Git
+### 🖥 Programming Languages
+- 🟦 C++  
+- 🐍 Python  
+- ⚡ JavaScript  
+- 🔷 TypeScript  
+
+### 🤖 AI & Machine Learning
+- 🧠 NLP & LLM-based Applications  
+- 📊 Ensemble Models  
+- 🌐 Federated & Distributed Learning  
+
+### 🌐 Web Development & Databases
+- 🟢 Node.js | ⚛️ React.js | 🟠 Express.js  
+- 🗄 MySQL | 🍃 MongoDB | 🔹 Firebase | 🟣 Oracle  
+
+### ☁️ Cloud & Tools
+- ☁️ AWS  
+- 🐳 Docker  
+- 🔧 Git & Version Control  
+
 
